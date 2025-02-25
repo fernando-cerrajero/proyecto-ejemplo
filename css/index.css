@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;       
+  
+}
